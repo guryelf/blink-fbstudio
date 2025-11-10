@@ -1,0 +1,20 @@
+[
+  {
+    "id": "product_seo",
+    "name": "Product SEO",
+    "description": "Generate SEO-friendly product descriptions and keywords.",
+    "endpoint": "product_seo"
+  },
+  {
+    "id": "receipt_ocr",
+    "name": "Receipt OCR",
+    "description": "Extract information from receipts using OCR.",
+    "endpoint": "receipt_ocr"
+  },
+  {
+    "id": "caption_hashtag",
+    "name": "Caption & Hashtag",
+    "description": "Generate engaging captions and relevant hashtags for your images.",
+    "endpoint": "caption_hashtag"
+  }
+]
